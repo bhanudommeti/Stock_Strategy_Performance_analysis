@@ -54,9 +54,3 @@ pip install pandas numpy yfinance matplotlib plotly scikit-learn statsmodels
 
 - `Stock_Strategy_Performance_analysis.py`: The main Python script containing the analysis and forecasting code.
 - `advanced_deployment.py` : The main Python Script containing the deploment code.
-- `README.md`: The readme file providing an overview of the project and instructions.
-- Other supporting files and directories.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
